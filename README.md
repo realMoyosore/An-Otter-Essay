@@ -10,20 +10,20 @@
 - Responsive layout for desktop and mobile devices
 - Semantic HTML structure
 - Custom CSS styling
-- Interactive elements using JavaScript (if applicable)
 
 ## Getting Started
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/your-username/an-otter-essay.git
     ```
+
 2. Open the project folder and launch `index.html` in your browser.
 
 ## Folder Structure
 
-```
-an-otter-essay/
+```an-otter-essay/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -36,4 +36,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed for Educational purposes.
