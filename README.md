@@ -1,6 +1,5 @@
 # An Otter Essay Project
 
-
 ## Project Overview
 
 "An Otter Essay" is a web development project designed to help you practice and improve your HTML and CSS. The project involves creating a simple webpage, focusing on clean design and semantic markup.
