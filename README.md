@@ -1,3 +1,39 @@
 # An Otter Essay Project
 
-This is a web development project practice
+
+## Project Overview
+
+"An Otter Essay" is a web development project designed to help you practice and improve your HTML, CSS, and JavaScript skills. The project involves creating a simple, informative webpage about otters, focusing on clean design and semantic markup.
+
+## Features
+
+- Responsive layout for desktop and mobile devices
+- Semantic HTML structure
+- Custom CSS styling
+- Interactive elements using JavaScript (if applicable)
+
+## Getting Started
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/an-otter-essay.git
+    ```
+2. Open the project folder and launch `index.html` in your browser.
+
+## Folder Structure
+
+```
+an-otter-essay/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
